@@ -1,8 +1,8 @@
 # ==============================================
-# Cortex QA Protocol Repository Scaffold Script
+# CRTX QA Protocol Repository Scaffold Script
 # ==============================================
 
-$RepoName = "cortex-qa-protocols"
+$RepoName = "CRTX-qa-protocols"
 $RootPath = "$PWD\$RepoName"
 
 Write-Host "Creating repository structure at $RootPath"
@@ -31,9 +31,9 @@ foreach ($folder in $folders) {
 
 # Create README.md
 @"
-# Cortex QA Protocols
+# CRTX QA Protocols
 
-Private repository containing structured QA protocols, lifecycle validation methodologies, and test cycle definitions for Cortex XDR / XSIAM.
+Private repository containing structured QA protocols, lifecycle validation methodologies, and test cycle definitions for CRTX.
 
 This repository is the canonical source of truth for:
 
@@ -114,6 +114,6 @@ git commit -m "Initial repository scaffold"
 
 Write-Host "Repository scaffold complete."
 Write-Host "Next steps:"
-Write-Host "1. Create private repo on GitHub named: cortex-qa-protocols"
+Write-Host "1. Create private repo on GitHub named: CRTX-qa-protocols"
 Write-Host "2. git remote add origin <repo-url>"
 Write-Host "3. git push -u origin main"

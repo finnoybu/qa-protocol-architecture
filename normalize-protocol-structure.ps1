@@ -1,5 +1,5 @@
 # ============================================
-# Cortex QA Protocol Structure Normalization
+# CRTX QA Protocol Structure Normalization
 # ============================================
 
 Write-Host "Starting protocol normalization..."

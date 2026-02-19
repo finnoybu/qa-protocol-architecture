@@ -8,7 +8,7 @@ Last Updated: 2026-02-19 15:04:46
 
 ## 1. Purpose
 
-Define a consistent, repeatable methodology for designing QA test cycles and individual test cases across Cortex XDR / XSIAM features.
+Define a consistent, repeatable methodology for designing QA test cycles and individual test cases across CRTX  features.
 
 This standard governs **how we design tests**, not how we execute them.
 

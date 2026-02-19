@@ -1,6 +1,6 @@
-# Cortex QA Protocols
+# CRTX QA Protocols
 
-Private repository containing structured QA protocols, lifecycle validation methodologies, and test cycle definitions for Cortex XDR / XSIAM.
+Private repository containing structured QA protocols, lifecycle validation methodologies, and test cycle definitions for CRTX.
 
 This repository is the canonical source of truth for:
 

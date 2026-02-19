@@ -8,7 +8,7 @@ Last Updated: 2026-02-19 15:04:46
 
 ## 1. Purpose
 
-Define prerequisites and environmental controls for executing Cortex XDR / XSIAM test cycles in a consistent and repeatable way.
+Define prerequisites and environmental controls for executing CRTX  test cycles in a consistent and repeatable way.
 
 This standard prevents test failures caused by hidden tenant drift, stale feature flags, or inconsistent agent fleets.
 

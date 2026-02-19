@@ -15,7 +15,7 @@ Define standardized validation methodology for:
 - Hidden field detection
 - Feature flag gating validation
 
-Applies to all Cortex feature flag testing.
+Applies to all CRTX feature flag testing.
 
 ---
 

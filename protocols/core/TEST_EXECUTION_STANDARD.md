@@ -3,7 +3,7 @@ Version: 1.0.0
 
 ## Purpose
 
-Define the authoritative standard for writing and executing QA test cases across all Cortex-related feature validations.
+Define the authoritative standard for writing and executing QA test cases across all CRTX-related feature validations.
 
 ---
 
