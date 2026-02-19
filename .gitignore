@@ -1,0 +1,14 @@
+# OS
+Thumbs.db
+.DS_Store
+
+# VSCode
+.vscode/
+
+# Logs
+*.log
+
+# Exports
+artifacts/exports/*
+artifacts/evidence/*
+
